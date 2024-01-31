@@ -1,2 +1,3 @@
 # Rust github repository
- I am Learning Rust. So all my practice code and also project will be available here.
+<b>I am Learning Rust.</b> 
+<b>So all <i> my practice code</i> and also <i>project</i> will be available here.</b>
